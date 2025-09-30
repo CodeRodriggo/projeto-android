@@ -36,7 +36,7 @@ f
 
     --font-padrao: arial, verdana, Helvetica, sans-serif;
     --font-destaque: 'Bebas Neue', cursive;
-    --font-droid:'droid', cursive;
+    --font-droid:'droid';
 }
 
 body{
