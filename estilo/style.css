@@ -4,7 +4,7 @@
 
 @font-face{
     font-family: 'droid';
-    src: url(/font/droid.otf) format('opentype');
+    src: url('/font/droid.otf') format('opentype');
     font-weight: normal;
 }
 
@@ -36,7 +36,7 @@ f
 
     --font-padrao: arial, verdana, Helvetica, sans-serif;
     --font-destaque: 'Bebas Neue', cursive;
-    --font-droid: 'droid', cursive;
+    --font-droid:'droid', cursive;
 }
 
 body{
